@@ -1,0 +1,44 @@
+body{
+    background-image: url("../imagem/goku\ \(1\).png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: 30%;
+    text-align: left;
+
+    background-color: indigo;
+}
+
+h1{
+    background-color: darkmagenta;
+    color: goldenrod;
+    border: goldenrod;
+    border-style: dotted;
+    border-radius: 10px;
+    font-family: cursive ;
+    text-align: center;
+}
+
+fieldset{
+    color: white;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid gold ;
+}
+
+button{
+    background-color: darkorchid;
+    color:  white;
+    text-align: center;
+    border-radius: 10px ;
+    padding: 10px;
+}
+
+fieldset textarea{
+    resize: none;
+}
+
+
+
+
+
